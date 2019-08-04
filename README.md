@@ -2,7 +2,7 @@
 
 Quick and dirty index of ShinyThings' responses in the HWZ forum threads.
 
-**Current position:** part 2's post 4877 to 5880
+**Current position:** part 2's post 4877 to 6037
 
 I don't intend to exhaustively catalogue every response in every single post.
 Some are so specific or esoteric that it's nowhere near the F in FAQ.
@@ -34,6 +34,9 @@ If you need to block trolls on HWZ forums: https://forums.hardwarezone.com.sg/12
 * ES3 vs G3B? [part 2 #5699](https://forums.hardwarezone.com.sg/121481705-post5699.html) [part 2 #5461](https://forums.hardwarezone.com.sg/121149256-post5461.html)
 * How should you buy ES3 now that MBKE MIP is discontinued? [part 2 #5304](https://forums.hardwarezone.com.sg/120960926-post5304.html) [part 2 #5285](https://forums.hardwarezone.com.sg/120938999-post5285.html)
 * VWRD vs IWDA? [part 2 #5047](https://forums.hardwarezone.com.sg/120651459-post5047.html)
+* SWRD vs IWDA? [part 2 #5899](https://forums.hardwarezone.com.sg/121873100-post5899.html)
+* VWRA vs VWRD? [part 2 #5987](https://forums.hardwarezone.com.sg/122016879-post5987.html)
+* Should I sell to switch between IWDA/VWRD/VWRA? [part 2 #5998](https://forums.hardwarezone.com.sg/122035216-post5998.html)
 
 ## Bond ETFs
 * Why is MBH now being recommended over A35 for bond fund? [part 2 #5877](https://forums.hardwarezone.com.sg/121825374-post5877.html) [part 2 #5350](https://forums.hardwarezone.com.sg/121023680-post5350.html)
@@ -44,6 +47,8 @@ If you need to block trolls on HWZ forums: https://forums.hardwarezone.com.sg/12
 * What should I be looking for when picking a bond ETF? [part 2 #5532](https://forums.hardwarezone.com.sg/121225816-post5532.html)
 * Is there a need for multiple bond ETFs? [part 2 #5304](https://forums.hardwarezone.com.sg/120960926-post5304.html)
 * MBH, A35 or SSB? [part 2 #5105](https://forums.hardwarezone.com.sg/120721953-post5105.html)
+* Should I sell A35 to buy into MBH, or just keep it and buy MBH moving forwards? [part 2 #5906](https://forums.hardwarezone.com.sg/121889467-post5906.html) [part 2 #5998](https://forums.hardwarezone.com.sg/122035216-post5998.html)
+* What do we do _if_ bond yields turn negative? [part 2 #5977](https://forums.hardwarezone.com.sg/122002464-post5977.html)
 
 ## Other investments
 * Recommendations for Gold ETF? [part 2 #5673](https://forums.hardwarezone.com.sg/121452484-post5673.html)
@@ -70,6 +75,9 @@ If you need to block trolls on HWZ forums: https://forums.hardwarezone.com.sg/12
 * How do I keep my asset allocation between ES3/MBH with POSB IS, as the price fluctuates? [part 2 #5047](https://forums.hardwarezone.com.sg/120651459-post5047.html)
 
 ## Insurance
+
+## Retirement (?)
+* Does the 4% withdrawal rate work for a FIRE retirement in 30s or 40s? [part 2 #5977](https://forums.hardwarezone.com.sg/122002464-post5977.html) What about 3%? [part 2 #5987](https://forums.hardwarezone.com.sg/122016879-post5987.html)
 
 ## Misc
 * What are the foreign exchange market trading hours? [part 2 #5351](https://forums.hardwarezone.com.sg/121023692-post5351.html)
