@@ -2,7 +2,7 @@
 
 Quick and dirty index of ShinyThings' responses in the HWZ forum threads.
 
-**Current position:** part 2's post 4877 to 6972
+**Current position:** part 2's post 4877 to 7318
 
 I don't intend to exhaustively catalogue every response in every single post.
 Some are so specific or esoteric that it's nowhere near the F in FAQ.
@@ -31,6 +31,8 @@ If you need to block trolls on HWZ forums: https://forums.hardwarezone.com.sg/12
 * Why MSCI World instead of S&P500? [part 2 #6209](https://forums.hardwarezone.com.sg/122247478-post6209.html)
 * Ray Dalio's All Weather Portfolio? [part 2 #6253](https://forums.hardwarezone.com.sg/122264800-post6253.html)
 * What to do with cash for flat downpayment in 5 years? Also, should I allocate savings solely for that or a mix of that and investing? [part 2 #6406](https://forums.hardwarezone.com.sg/122333002-post6406.html)
+* When rebalancing, do I actually sell what I'm overweighed on, or just direct all future funds to what I'm underweighed on? [part 2 #7264](https://forums.hardwarezone.com.sg/123247122-post7264.html)
+* I'm currently only investing in IWDA, is that ok or should I diversify? [part 2 #7318](https://forums.hardwarezone.com.sg/123292999-post7318.html)
 
 ## Equity ETFs
 * Quick and dirty answer to currency risks when buying equity ETFs? [part 2 #5732](https://forums.hardwarezone.com.sg/121512062-post5732.html)
@@ -38,7 +40,7 @@ If you need to block trolls on HWZ forums: https://forums.hardwarezone.com.sg/12
 * ES3 vs G3B? [part 2 #5699](https://forums.hardwarezone.com.sg/121481705-post5699.html) [part 2 #5461](https://forums.hardwarezone.com.sg/121149256-post5461.html)
 * How should you buy ES3 now that MBKE MIP is discontinued? [part 2 #5304](https://forums.hardwarezone.com.sg/120960926-post5304.html) [part 2 #5285](https://forums.hardwarezone.com.sg/120938999-post5285.html)
 * VWRD? [part 2 #5047](https://forums.hardwarezone.com.sg/120651459-post5047.html)
-* SWRD? [part 2 #5899](https://forums.hardwarezone.com.sg/121873100-post5899.html)
+* SWRD? [part 2 #5899](https://forums.hardwarezone.com.sg/121873100-post5899.html) [part 2 #7147](https://forums.hardwarezone.com.sg/123080586-post7147.html)
 * VWRA? [part 2 #5987](https://forums.hardwarezone.com.sg/122016879-post5987.html) [part 2 #6047](https://forums.hardwarezone.com.sg/122088108-post6047.html) [part 2 #6125](https://forums.hardwarezone.com.sg/122179239-post6125.html)
 * Should I sell to switch between IWDA/VWRD/VWRA? [part 2 #5998](https://forums.hardwarezone.com.sg/122035216-post5998.html)
 * Tracking error differences between fund managers? [part 2 #6057](https://forums.hardwarezone.com.sg/122100100-post6057.html)
@@ -46,6 +48,8 @@ If you need to block trolls on HWZ forums: https://forums.hardwarezone.com.sg/12
 * How do I buy ES3 since POSB IS doesn't offer it? [part 2 #6154](https://forums.hardwarezone.com.sg/122212184-post6154.html)
 * Pros and cons of IWDA vs IWDA+EIMI vs VWRA? [part 2 #6307](https://forums.hardwarezone.com.sg/122300254-post6307.html)
 * Infinity Global Stock Index Fund unit trust to access Vanguard funds? [part 2 #6613](https://forums.hardwarezone.com.sg/122425272-post6613.html)
+* Is liquidity/volume of VWRA a concern? [part 2 #6996](https://forums.hardwarezone.com.sg/122858915-post6996.html)
+* Does the TER difference between US-listed and LSE-listed ETFs outweigh the withholding tax difference? [part 2 #7250](https://forums.hardwarezone.com.sg/123230935-post7250.html)
 
 ## Bond ETFs
 * MBH, A35 or SSB? [part 2 #5105](https://forums.hardwarezone.com.sg/120721953-post5105.html) [part 2 #6213](https://forums.hardwarezone.com.sg/122247671-post6213.html)
@@ -82,15 +86,18 @@ If you need to block trolls on HWZ forums: https://forums.hardwarezone.com.sg/12
 * Where's the catch on FSM fees? [part 2 #5532](https://forums.hardwarezone.com.sg/121225816-post5532.html)
 * Should I move all my holdings from SCB to IBKR at some point? [part 2 #5625](https://forums.hardwarezone.com.sg/121353556-post5625.html) [part 2 #5877](https://forums.hardwarezone.com.sg/121825374-post5877.html) [part 2 #6613](https://forums.hardwarezone.com.sg/122425272-post6613.html)
 * DBSV cash upfront vs SCB? [part 2 #5625](https://forums.hardwarezone.com.sg/121353556-post5625.html)
-* Now that MBKE is discontinued, should I use Phillips? [part 2 #5653](https://forums.hardwarezone.com.sg/121424381-post5653.html)
+* Should I use Phillips/POEMS? [part 2 #5653](https://forums.hardwarezone.com.sg/121424381-post5653.html) [part 2 #6985](https://forums.hardwarezone.com.sg/122843790-post6985.html)
 * What is SCB's forex spread, or how does it compare to IBKR? [part 2 #5653](https://forums.hardwarezone.com.sg/121424381-post5653.html) [part 2 #6611](https://forums.hardwarezone.com.sg/122420714-post6611.html)
 * SCB's Customer Account Review? [part 2 #5805](https://forums.hardwarezone.com.sg/121664749-post5805.html)
-* Why not Saxo? [part 2 #5812](https://forums.hardwarezone.com.sg/121681831-post5812.html)
+* Why not Saxo? [part 2 #5812](https://forums.hardwarezone.com.sg/121681831-post5812.html) [part 2 #7049](https://forums.hardwarezone.com.sg/122941151-post7049.html)
 * Should I use Saxo or some other broker with a promo for a short while before switching? [part 2 #5818](https://forums.hardwarezone.com.sg/121697823-post5818.html)
 * If I'm buying IWDA 4 times a year, still buy through IBKR? [part 2 #5866](https://forums.hardwarezone.com.sg/121792763-post5866.html)
 * Can SCB Priority's AUM of 200k be met purely through equity holdings? [part 2 #6153](https://forums.hardwarezone.com.sg/122212178-post6153.html)
 * Can I use a standing instruction with my bank to deposit a fixed amount of cash into IBKR every month? [part 2 #6613](https://forums.hardwarezone.com.sg/122425272-post6613.html)
 * Is there any better choice than POSB IS? [part 2 #6613](https://forums.hardwarezone.com.sg/122425272-post6613.html)
+* Do we need to know the exact, latest market price before placing orders? What price should we bid at? [part 2 #7067](https://forums.hardwarezone.com.sg/122956038-post7067.html)
+* Why did I get prompted that more cash is required when I tried to use the mobile IBKR currency converter? [part 2 #7135](https://forums.hardwarezone.com.sg/123051959-post7135.html)
+* What's this IBKR Lite thing, can I use it? [part 2 #7264](https://forums.hardwarezone.com.sg/123247122-post7264.html)
 
 ## Insurance
 
