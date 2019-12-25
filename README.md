@@ -2,7 +2,7 @@
 
 Quick and dirty index of ShinyThings' responses in the HWZ forum threads.
 
-**Current position:** part 2's post 4877 to 7980
+**Current position:** part 2's post 4877 to 8135
 
 This is really just an exercise in active reading via note-taking.
 I don't intend to exhaustively catalogue every response in every single post.
@@ -55,6 +55,7 @@ If you need to block trolls on HWZ forums: https://forums.hardwarezone.com.sg/12
 * Do I need to do IWDA+EIMI or just IWDA will suffice? [part 2 #7405](https://forums.hardwarezone.com.sg/123380646-post7405.html)
 * LionGlobal All Seasons Fund? [part 2 #7437](https://forums.hardwarezone.com.sg/123413886-post7437.html) [part 2 #7836](https://forums.hardwarezone.com.sg/123897460-post7836.html) [part 2 #7868](https://forums.hardwarezone.com.sg/123928232-post7868.html)
 * Why still buy STI ETF when it's been hovering in the same price range since 2008? [part 2 #7897](https://forums.hardwarezone.com.sg/123956612-post7897.html)
+* Thai equity? [part 2 #7995](https://forums.hardwarezone.com.sg/124098244-post7995.html)
 
 ## Bond ETFs
 * MBH, A35 or SSB? [part 2 #5105](https://forums.hardwarezone.com.sg/120721953-post5105.html) [part 2 #6213](https://forums.hardwarezone.com.sg/122247671-post6213.html) [part 2 #7454](https://forums.hardwarezone.com.sg/123444531-post7454.html)
@@ -96,7 +97,7 @@ If you need to block trolls on HWZ forums: https://forums.hardwarezone.com.sg/12
 * Should I use Phillips/POEMS? [part 2 #5653](https://forums.hardwarezone.com.sg/121424381-post5653.html) [part 2 #6985](https://forums.hardwarezone.com.sg/122843790-post6985.html)
 * What is SCB's forex spread, or how does it compare to IBKR? [part 2 #5653](https://forums.hardwarezone.com.sg/121424381-post5653.html) [part 2 #6611](https://forums.hardwarezone.com.sg/122420714-post6611.html)
 * SCB's Customer Account Review? [part 2 #5805](https://forums.hardwarezone.com.sg/121664749-post5805.html)
-* Why not Saxo? [part 2 #5812](https://forums.hardwarezone.com.sg/121681831-post5812.html) [part 2 #7049](https://forums.hardwarezone.com.sg/122941151-post7049.html) [part 2 #7897](https://forums.hardwarezone.com.sg/123956612-post7897.html)
+* Why not Saxo? [part 2 #5812](https://forums.hardwarezone.com.sg/121681831-post5812.html) [part 2 #7049](https://forums.hardwarezone.com.sg/122941151-post7049.html) [part 2 #7897](https://forums.hardwarezone.com.sg/123956612-post7897.html) [part 2 #7995](https://forums.hardwarezone.com.sg/124098244-post7995.html)
 * Should I use Saxo or some other broker with a promo for a short while before switching? [part 2 #5818](https://forums.hardwarezone.com.sg/121697823-post5818.html)
 * If I'm buying IWDA 4 times a year, still buy through IBKR? [part 2 #5866](https://forums.hardwarezone.com.sg/121792763-post5866.html)
 * Can SCB Priority's AUM of 200k be met purely through equity holdings? [part 2 #6153](https://forums.hardwarezone.com.sg/122212178-post6153.html)
@@ -109,6 +110,7 @@ If you need to block trolls on HWZ forums: https://forums.hardwarezone.com.sg/12
 * What happens if the fund manager goes bust? [part 2 #7385](https://forums.hardwarezone.com.sg/123367926-post7385.html)
 * What if I'm doing a lump sum into IWDA and hold? [part 2 #7473](https://forums.hardwarezone.com.sg/123461327-post7473.html)
 * Is there any difference between the new IBKR mobile app's "Convert Currency" and using the desktop app? [part 2 #7848](https://forums.hardwarezone.com.sg/123912572-post7848.html)
+* How does the USD 1000/month rule of thumb come about, does it assume you batch up otherwise? [part 2 #7995](https://forums.hardwarezone.com.sg/124098244-post7995.html)
 
 ## Insurance
 
